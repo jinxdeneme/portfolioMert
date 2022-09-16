@@ -1,2 +1,0 @@
-# portfolioMert
-Portfolio Mert
