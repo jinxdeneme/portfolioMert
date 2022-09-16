@@ -1,0 +1,63 @@
+*{
+    box-sizing: border-box;
+    font-family: Consolas, 'Courier New', monospace;
+}
+html,body{
+    padding: 0;
+    margin: 0;
+    font-weight: lighter;
+    background-color: whitesmoke;
+}
+
+p{
+    font-weight: lighter;
+    font-size: 12px;
+    margin-left: 35px;
+}
+
+h1{
+    font-size: 20px;
+    font-weight: lighter;
+    margin-left: 15px;
+}
+h2{
+    margin-left: 15px;
+    font-size: 15px;
+    font-weight: lighter;
+}
+
+.container{
+    width: 50%;
+    height: 100vh;
+    margin: auto;
+    background-color: #393939;
+    color: white;
+}
+i{
+    color: #99AB73;
+    font-size: 10px;  
+}
+.nav{
+    margin-left: 15px;
+}
+pre{
+    text-align: end;
+    margin-top: 15px;
+}
+
+.contact{
+    text-align: center;
+    font-size: 25px;
+}
+
+.fa-brands{
+    font-size: 25px;
+    
+}
+
+.fa-brands:hover{
+    transition: 400ms;
+    color: white;
+}
+
+
